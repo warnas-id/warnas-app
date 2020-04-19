@@ -1,0 +1,31 @@
+{
+ "TukarPoint": {
+  "textText": "7000",
+  "poinSayaText": "Poin saya",
+  "syaratDanKetentuanText": "Syarat dan ketentuan",
+  "poinHanyaBiasDText": "1. Poin hanya bias ditukarkan kedalam \ndompet digital anda.",
+  "caraPemakaianPoinText": "Cara Pemakaian Poin",
+  "poinHanyaBiasDTwoText": "1. Poin hanya bias ditukarkan kedalam \ndompet digital anda.",
+  "deskripsiPoinText": "Deskripsi Poin",
+  "poinHanyaBiasDThreeText": "1. Poin hanya bias ditukarkan kedalam \ndompet digital anda.",
+  "tukarPointButton": "Tukarkan Poin"
+ },
+ "TukarPointPopup": {
+  "tukarPoinSayaText": "Tukar Poin Saya",
+  "textText": "081456787990",
+  "textTwoText": "081456787990",
+  "rp7000Text": "Rp. 7000",
+  "rp7000TwoText": "Rp. 7000"
+ },
+ "NavigationBar": {
+  "berandaText": "Beranda",
+  "ulasanText": "Ulasan",
+  "favoritText": "Favorit",
+  "warungText": "Warung",
+  "profilText": "Profil"
+ },
+ "SyaratCaraDeskripsiPoin": {
+  "syaratDanKetentuanText": "Syarat dan Ketentuan",
+  "loremIpsumIsSiText": "1. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, \n\n2. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, \n\n3. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, \n\n4. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, \n\n5. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, \n\n6. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, \n\n7. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, \n\n8. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, \n\n9. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, \n\n10. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
+ }
+}
